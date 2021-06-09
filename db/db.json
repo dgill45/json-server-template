@@ -1,52 +1,140 @@
 {
-  "toys": [
+  
+  "class" : [
     {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "id":1,
+      "name": "Artificer",
+      "image": "https://cdn.draconic.io/media/images/dnd5e/class/artificer.png",
+      "desc": "Inventive magic-users who unlock capabilities in objects."
+    },   
+    {
+      "id":2,
+      "name": "Barbarian",
+      "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/342/420/618/636272680339895080.png",
+      "desc": "A fierce warrior of primitive background who can enter a battle rage."
+    },   
+    {
+      "id":3,
+      "name": "Bard",
+      "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/369/420/618/636272705936709430.png",
+      "desc": "An inspiring magician whose power echoes the music of creation."
     },
     {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
-    },
-    {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
-    },
-    {
-      "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "id":4,
+      "name": "Blood Hunter",
+      "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/8551/968/420/618/637158853099606981.png",
+      "desc": "Fanatical warriors who augment themselves with blood magic to use monstrous abilities against foes."
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "name": "Cleric",
+      "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/371/420/618/636272706155064423.png",
+      "desc": "A priestly champion who wields divine magic in the service of a higher power."   
     },
     {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
+      "id":6,
+      "name": "Druid",
+      "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/346/420/618/636272691461725405.png",
+      "desc": "A priest of the Old Faith, wielding the powers of nature—moonlight and plant growth, fire and lightning—and adopting animal forms."
+    },      
     {
-      "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
+      "id":7,
+      "name": "Fighter",
+      "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/359/420/618/636272697874197438.png",
+      "desc": "A master of martial combat, skilled with a variety of weapons and armor."
+    },   
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+     "name": "Monk",
+     "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/489/420/618/636274646181411106.png",
+     "desc": "A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection."
+    },
+    {
+      "id": 9,
+     "name": "Paladin",
+     "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/365/420/618/636272701937419552.png",
+     "desc": "A holy warrior bound to a sacred oath."
+    },
+    {
+       "id": 10,
+      "name": "Ranger",
+      "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/367/420/618/636272702826438096.png",
+      "desc":"A warrior who uses martial prowess and nature magic to combat threats on the edges of civilization."
+
+    },
+    {
+      "id": 11,
+      "name": "Rogue",
+      "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/384/420/618/636272820319276620.png",
+      "desc": "A scoundrel who uses stealth and trickery to overcome obstacles and enemies."
+    },
+    {
+      "id": 12,
+      "name": "Sorcerer",
+      "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/485/420/618/636274643818663058.png",
+      "desc": "A spellcaster who draws on inherent magic from a gift or bloodline."
+
+    },
+    {
+      "id": 13,
+      "name": "Warlock",
+      "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/375/420/618/636272708661726603.png",
+      "desc": "A wielder of magic that is derived from a bargain with an extraplanar entity."
+    },
+    {
+      "id": 14,
+      "name": "Wizard",
+      "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/357/420/618/636272696881281556.png",
+      "desc": "A scholarly magic-user capable of manipulating the structures of reality."  
+    }
+
+
+  ],
+  "race" : [
+    {
+      "id":1,
+      "name": "Human",
+      "desc": "Well… I suppose you are a human, so you should know what we are good at. Absolutely nothing! Or more precisely, a bit in everything. Humans are quite more anxious and eager to adventure than the other races due to their short lives (in comparison with the others). "
+    },
+    {
+      "id":2,
+      "name": "Dwarf",
+      "desc": "Stout, short and hardworking. Those might be the best words to describe a dwarf. Having their race forged by the god Moradin, they were taught of the benefits of hard labor, perfection in their works, and the importance of their clans. Dwarves live their long lives with a spirit of good and justice, that may only be corrupted by greed. Their sturdiness allows them to be more resistant than other classes in combat as well as resist poison." 
+    },
+    {
+      "id":3,
+      "name": "Elf",
+      "desc": "Elves are magical and gracious beings, as well as very close to being eternal. They develop many different attitudes during their life. When young (young being up to 100 years old) they have an adventurous and curious way of thought, making them go for adventures. By the time they reach adulthood their personalities change and become much more peaceful, but don’t discard the idea of going exploring until they become elders. They make for excellent artists and tend to be quite chaotic when it comes to laws. Last but not least, they don’t sleep but enter trances for 4 hours a day in which they remain semiconscious."
+    },
+    {
+      "id":4,
+      "name": "Halfling",
+      "desc": "Halflings are isolated, cheerful people who love the commodity of their homes and communities. That’s the main reason most of them don’t abandon their birthplaces (shires). However, a strong sense of curiosity inhabits in most of them, leading these little folk to become adventurers or travel to other places. They are extremely agile, but as a result of their short legs, not as fast as the other races "
+    },
+    {
+      "id":5,
+      "name": "Gnome",
+      "desc": "Gnomes are weird super positive beings. Their spirits shine even in the darkest nights. Great inventors, pranksters, and even better intellectuals. Living away from other communities they tend to live pretty normal lives in their about 500 years. However, just like halflings, curiosity is something that every one of them carries, as well as their impulsive behavior, creating excellent and many adventurers out of them. "
+    },
+    {
+      "id":6,
+      "name": "Half-Elf",
+      "desc": "These beings combine the best parts of elves and humans, or so they say. They don’t really belong in either of both worlds, having to decide the community they find themselves more identified with. That’s the reason why they work excellently as ambassadors or wander off feeling excluded from all places, sometimes in the search for weird adventurers with whom they can find a sense of belonging." 
+    },
+    {
+      "id":7,
+      "name": "Half-Orc",
+      "desc": "Half orcs have orc blood running through their veins. This makes them much stronger than normal people, as well as hardy. However, that also can make them act impulsively and savagely. They often live, or at least used to in orc tribes and may or may not feel the rage of Gruumsh within them (Gruumsh being the orc god). While many of them triumph as leaders in their tribe due to their high IQ in comparison with the others, others are exiled and go in search of jobs in communities or go adventuring. Their high endurance makes them almost impossible to fall in combat. "
+    },
+    {
+      "id":8,
+      "name": "Dragonborn",
+      "desc": "Descendants of dragons, these draconic humanoids live in clans who they value more than their life itself. Depending on their color, they get a breath attack of a specific type, as well as resistance to that same type of damage in combat. They tend to be as strong as they are charismatic, just like their fellow ancestors. Even though they are covered in scales, they lack the tail and wings that make dragons so characteristic. "
+    },
+    {
+      "id":9,
+      "name": "Tiefling",
+      "desc": "Tieflings take lots of forms and colors. They can have different kinds of horns and tails, as well as be from a great variety of colors. Nevertheless, they share some kind of curse. These are beings of infernal lineage due to a pact that someone in the long past made with Asmodeus (lord of Hell). They look mostly human, not taking into account the features described above. Even though they are mostly intellectual and highly charismatic beings, they tend to be received with mistrust by superstitious people. "
     }
   ]
 }
