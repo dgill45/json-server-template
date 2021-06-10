@@ -1,6 +1,6 @@
 {
   
-  "class" : [
+  "clas" : [
     {
       "id":1,
       "name": "Artificer",
@@ -90,6 +90,7 @@
 
 
   ],
+  
   "race" : [
     {
       "id":1,
