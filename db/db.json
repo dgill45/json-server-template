@@ -5,87 +5,101 @@
       "id":1,
       "name": "Artificer",
       "image": "https://cdn.draconic.io/media/images/dnd5e/class/artificer.png",
-      "desc": "Inventive magic-users who unlock capabilities in objects."
+      "desc": "Inventive magic-users who unlock capabilities in objects.",
+      "charName": ""
     },   
     {
       "id":2,
       "name": "Barbarian",
       "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/342/420/618/636272680339895080.png",
-      "desc": "A fierce warrior of primitive background who can enter a battle rage."
+      "desc": "A fierce warrior of primitive background who can enter a battle rage.",
+      "charName": ""
     },   
     {
       "id":3,
       "name": "Bard",
       "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/369/420/618/636272705936709430.png",
-      "desc": "An inspiring magician whose power echoes the music of creation."
+      "desc": "An inspiring magician whose power echoes the music of creation.",
+      "charName":""
     },
     {
       "id":4,
       "name": "Blood Hunter",
       "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/8551/968/420/618/637158853099606981.png",
-      "desc": "Fanatical warriors who augment themselves with blood magic to use monstrous abilities against foes."
+      "desc": "Fanatical warriors who augment themselves with blood magic to use monstrous abilities against foes.",
+      "charName":""
     },
     {
       "id": 5,
       "name": "Cleric",
       "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/371/420/618/636272706155064423.png",
-      "desc": "A priestly champion who wields divine magic in the service of a higher power."   
+      "desc": "A priestly champion who wields divine magic in the service of a higher power.",
+      "charName":""   
     },
     {
       "id":6,
       "name": "Druid",
       "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/346/420/618/636272691461725405.png",
-      "desc": "A priest of the Old Faith, wielding the powers of nature—moonlight and plant growth, fire and lightning—and adopting animal forms."
+      "desc": "A priest of the Old Faith, wielding the powers of nature—moonlight and plant growth, fire and lightning—and adopting animal forms.",
+      "charName":""
     },      
     {
       "id":7,
       "name": "Fighter",
       "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/359/420/618/636272697874197438.png",
-      "desc": "A master of martial combat, skilled with a variety of weapons and armor."
+      "desc": "A master of martial combat, skilled with a variety of weapons and armor.",
+      "charName":""
     },   
     {
       "id": 8,
      "name": "Monk",
      "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/489/420/618/636274646181411106.png",
-     "desc": "A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection."
+     "desc": "A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection.",
+     "charName":""
     },
     {
       "id": 9,
      "name": "Paladin",
      "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/365/420/618/636272701937419552.png",
-     "desc": "A holy warrior bound to a sacred oath."
+     "desc": "A holy warrior bound to a sacred oath.",
+     "charName":""
     },
     {
        "id": 10,
       "name": "Ranger",
       "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/367/420/618/636272702826438096.png",
-      "desc":"A warrior who uses martial prowess and nature magic to combat threats on the edges of civilization."
+      "desc":"A warrior who uses martial prowess and nature magic to combat threats on the edges of civilization.",
+      "charName":""
 
     },
     {
       "id": 11,
       "name": "Rogue",
       "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/384/420/618/636272820319276620.png",
-      "desc": "A scoundrel who uses stealth and trickery to overcome obstacles and enemies."
+      "desc": "A scoundrel who uses stealth and trickery to overcome obstacles and enemies.",
+      "charName":""
     },
     {
       "id": 12,
       "name": "Sorcerer",
       "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/485/420/618/636274643818663058.png",
-      "desc": "A spellcaster who draws on inherent magic from a gift or bloodline."
+      "desc": "A spellcaster who draws on inherent magic from a gift or bloodline.",
+      "charName":""
 
     },
     {
       "id": 13,
       "name": "Warlock",
       "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/375/420/618/636272708661726603.png",
-      "desc": "A wielder of magic that is derived from a bargain with an extraplanar entity."
+      "desc": "A wielder of magic that is derived from a bargain with an extraplanar entity.",
+      "charName":""
     },
     {
       "id": 14,
       "name": "Wizard",
       "image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/357/420/618/636272696881281556.png",
-      "desc": "A scholarly magic-user capable of manipulating the structures of reality."  
+      "desc": "A scholarly magic-user capable of manipulating the structures of reality.",
+      "charName":""  
     }
 
 
